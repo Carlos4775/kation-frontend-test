@@ -1,5 +1,17 @@
 ### Link: https://addresses-e3ee7.web.app/
 
+HOME
+
+![image](https://user-images.githubusercontent.com/46830962/191389972-2183318b-c932-4f07-a09e-898dbdbb2f69.png)
+
+CREATE
+
+![image](https://user-images.githubusercontent.com/46830962/191390082-a4099d1c-e483-4683-b246-6fa7e164d2a2.png)
+
+LOCATION DETAIL
+
+![image](https://user-images.githubusercontent.com/46830962/191390157-498dc89a-3559-462e-a9f7-aeb396428e8a.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
